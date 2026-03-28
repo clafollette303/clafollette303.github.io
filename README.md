@@ -1,5 +1,3 @@
-# Graphics Programming Resources
-
 All resources listed are free to access except those linked through the _O'Reilly Media_ learning platform, which require a university email or membership.
 
 Resources are (loosely) organized by content format.
@@ -14,7 +12,7 @@ Resources are (loosely) organized by content format.
 ## General Books
 [Jason Gregory, _Game Engine Architecture_](https://www.gameenginebook.com/index.html)
 
-[_GPU Gems 1, 2 & 3_](https://developer.nvidia.com/gpugems/gpugems/contributors)
+[_GPU Gems 1, 2, & 3_](https://developer.nvidia.com/gpugems/gpugems/contributors)
 
 *O'Reilly Required*
 [_Real Time Rendering, 4th Edition_](https://learning.oreilly.com/library/view/real-time-rendering-fourth/9781351816144/)
@@ -37,7 +35,7 @@ Resources are (loosely) organized by content format.
 
 [lisyarus, _Skeletal animation in glTF_](https://lisyarus.github.io/blog/posts/gltf-animation.html)
 
-[Joel Spolsky_joelonsoftware.com_](https://www.joelonsoftware.com/)
+[Joel Spolsky _joelonsoftware.com_](https://www.joelonsoftware.com/)
 
 [Fabien Sanglard, _fabiensanglard.net_](https://fabiensanglard.net/)
 
@@ -47,7 +45,7 @@ Resources are (loosely) organized by content format.
 
 ---
 ## General Videos, Presentations, & Lectures
-[Jason Gregory,_Dogged Determination_ XXI SINFO](https://www.youtube.com/watch?v=f8XdvIO8JxE)
+[Jason Gregory, _Dogged Determination_ XXI SINFO](https://www.youtube.com/watch?v=f8XdvIO8JxE)
 
 [Vadim Chuprakov, _Parallelizing the Naughty Dog Engine Using Fibers_](https://youtu.be/HIVBhKj7gQU?si=lB8tQHONPxwu4bBP)
 
