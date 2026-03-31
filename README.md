@@ -47,7 +47,7 @@ Resources are (loosely) organized by content format.
 ## General Videos, Presentations, & Lectures
 [Jason Gregory, _Dogged Determination_ XXI SINFO](https://www.youtube.com/watch?v=f8XdvIO8JxE)
 
-[Vadim Chuprakov, _Parallelizing the Naughty Dog Engine Using Fibers_](https://youtu.be/HIVBhKj7gQU?si=lB8tQHONPxwu4bBP)
+[Christian Gyrling, _Parallelizing the Naughty Dog Engine Using Fibers_](https://youtu.be/HIVBhKj7gQU?si=lB8tQHONPxwu4bBP)
 
 [_Physics Animation in Uncharted 4: A Thief's End_](https://www.youtube.com/watch?v=7S-_vuoKgR4)
 
