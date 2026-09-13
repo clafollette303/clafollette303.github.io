@@ -1,6 +1,6 @@
 ---
 title: "Triage Roulette"
-excerpt: "An educational game developed in collaboration with Dolly Parton Children's Hospital.<br/><img src='/images/hero_image.png'>"
+excerpt: "An educational game developed in collaboration with Dolly Parton Children's Hospital.<br/><img src='/images/triage_hero.png'>"
 collection: portfolio
 ---
 
